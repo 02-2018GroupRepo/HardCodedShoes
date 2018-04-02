@@ -5,6 +5,7 @@
 build
 .settings
 Target
+mvnw*
 
 # Log file
 *.log
