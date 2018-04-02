@@ -1,5 +1,5 @@
 CREATE TABLE shoes(
- model_id Integer,
+ model_id Integer NOT NULL AUTO_INCREMENT,
  product_name VARCHAR(50),
  stock Integer,
  price decimal,
